@@ -1,1 +1,2 @@
 This is FileC
+This is Very Curious TextFile Process and also it works on some documents
